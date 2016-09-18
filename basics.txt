@@ -1,0 +1,13 @@
+-Function parameter comes with their type and are given after colon
+
+def power(x:Double,y:int):Double = ...
+
+If a return type is given, it follows the parameter list.
+
+Primitive types are as in Java, but are written Camel Case, eg:
+
+Int 		32 bit integer
+Double    	64 bit floating point number
+Boolean   	Boolean values true or false
+
+- The 
